@@ -1,5 +1,4 @@
 # 0x13. Firewall
-
 ## Table of contents
 Files | Description
 ----- | -----------
